@@ -10,3 +10,5 @@ As librarians increasingly use, build, and maintain the [National Digital Platfo
 Our goal is to coalesce diverse and disparate communities whose experiences and perspectives on data science inspire and contribute to developing and sustaining our [National Digital Platform](https://www.imls.gov/issues/national-issues/national-digital-platform). We are at a critical moment where a plethora of opportunities and promises around data science need to be thoughtfully and strategically applied in libraries.
 
 Stay tuned for more information about Data Science in Libraries.
+
+![SIS Logo](/images/sis.png) ![IMLS Logo](/images/imls.jpg)
