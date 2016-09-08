@@ -11,4 +11,4 @@ Our goal is to coalesce diverse and disparate communities whose experiences and 
 
 Stay tuned for more information about Data Science in Libraries.
 
-![SIS Logo](/images/sis.png) ![IMLS Logo](/images/imls.jpg)
+![SIS Logo](/images/sis.png) ![IMLS Logo](/images/imls.jpg) ![NSCU Logo](/images/ncsu.jpeg) ![Data and Society Logo](/images/d&s.png)
