@@ -4,10 +4,13 @@ layout: page
 permalink: /participants/
 ---
 
+### Organizers
 * Matt Burton  -  University of Pittsburgh
 * Liz Lyon  -  University of Pittsburgh
 * Chris Erdmann  -  North Carolina State University
 * Bonnie Tijerina  -  Data & Society
+
+### Participants
 * Tracy Teal  -  Data Carpentry
 * Vernica Downey  -  Harvard University
 * Andrew Odewahn  -  O'Reilly Media
