@@ -1,10 +1,8 @@
 ---
 title: Agenda
 layout: page
-permalink: /Agenda/
+permalink: /agenda/
 ---
-
-# Workshop Agenda
 
 **Day 1 May 16th (9am - 5:30pm)**
 
