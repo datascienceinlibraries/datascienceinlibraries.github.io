@@ -22,13 +22,13 @@ Speaker: Alistair Croll
 * Small Breakout Sessions (4pm - 5pm) - Digging deeper into key issues.
 * Group Discussion (5pm-5:30pm) - Reporting back from the breakout sessions and a larger group discussion reflecting on the day’s conversation.
 
-* Banquet Dinner (6:30pm - 9pm) -  University of Pittsburgh Faculty Club
+* Banquet Dinner (6:30pm - 9pm) - Twentieth Century Club
 
 **Day 2 May 17th (9am - Noon)**
 
 * Light Breakfast (8am - 9am) - Coffee and Continental Breakfast
 
-* Orienting Talk (9am - 9:30am) - Summarizing Data Science in Libraries Speaker: TBD
+* Orienting Talk (9am - 9:30am) - From laboratories to libraries: mapping the skills and competences for data professionals, lessons from the EDISON project Speaker: Steve Brewer
 * Case Studies Breakout (9:30am - 11:00am)
   * Skills Gap: Training librarians to be data savvy.
   * Skills Gap: How data savvy librarians can support their communities.
