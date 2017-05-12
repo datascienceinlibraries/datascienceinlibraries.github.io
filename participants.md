@@ -40,3 +40,10 @@ permalink: /participants/
 * Jan Brase  -  SUB Gottingen
 * Nic Weber  -  University of Washington
 * Meredith Schwartz  -  Library Journal
+* Renae Barger - University of Pittsburgh
+* Kornelia Tancheva - University of Pittsburgh
+
+### Student support
+* Jessica Kirchner - University of Pittsburgh
+* Chris Mills - University of Pittsburgh
+* Lauren Murphy - University of Pittsburgh
