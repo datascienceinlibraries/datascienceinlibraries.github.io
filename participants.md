@@ -39,7 +39,6 @@ permalink: /participants/
 * Alistair Croll  -  Harvard Business School
 * Jan Brase  -  SUB Gottingen
 * Nic Weber  -  University of Washington
-* Meredith Schwartz  -  Library Journal
 * Renae Barger - University of Pittsburgh
 * Kornelia Tancheva - University of Pittsburgh
 
