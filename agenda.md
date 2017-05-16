@@ -19,6 +19,11 @@ permalink: /agenda/
 Speaker: Alistair Croll
 * Break (2:30 - 3pm) - Afternoon Coffee Break
 * Lightning talks (3pm - 4pm) - A series of short, 5 minute talks by participants doing Data Science in libraries.
+  * Harriet Green
+  * Eleanor Tutt
+  * Lauren Di Monti
+  * John Chodacki 
+  * Dan Chudnov
 * Small Breakout Sessions (4pm - 5pm) - Digging deeper into key issues.
 * Group Discussion (5pm-5:30pm) - Reporting back from the breakout sessions and a larger group discussion reflecting on the day’s conversation.
 
