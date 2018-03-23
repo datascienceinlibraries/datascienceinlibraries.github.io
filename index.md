@@ -1,5 +1,7 @@
 ---
 layout: default
+redirect-to:
+  - http://d-scholarship.pitt.edu/33891/
 ---
 
 As librarians increasingly use, build, and maintain the [National Digital Platform](https://www.imls.gov/issues/national-issues/national-digital-platform), the skills to manipulate, analyze, and manage data are crucial. Librarians will need to meaningfully engage the tools and techniques of data science, but they currently face two significant challenges:
