@@ -11,10 +11,6 @@ As librarians increasingly use, build, and maintain the [National Digital Platfo
 
 Our goal is to coalesce diverse and disparate communities whose experiences and perspectives on data science inspire and contribute to developing and sustaining our [National Digital Platform](https://www.imls.gov/issues/national-issues/national-digital-platform). We are at a critical moment where a plethora of opportunities and promises around data science need to be thoughtfully and strategically applied in libraries.
 
-* [Workshop Agenda](/agenda/)
-* [Workshop Participants](/participants/)
-
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfR5ICMkkwdEkOOIkDi0g0uaIhrwXkRN0MvQDDgo3BgtYEY-Q/viewform?embedded=true" width="760" height="1020" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+## The report has been published! Please visit [http://d-scholarship.pitt.edu/33891/](http://d-scholarship.pitt.edu/33891/)
 
 ![SIS Logo](/images/sis.png) ![IMLS Logo](/images/imls.jpg) ![NSCU Logo](/images/ncsu.jpeg) ![Data and Society Logo](/images/d&s.png)
