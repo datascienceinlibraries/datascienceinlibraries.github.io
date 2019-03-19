@@ -1,6 +1,6 @@
 # Site settings
 title: Data Science in Libraries
-email: info@datascienceinlibraries.org
+email: mcburton@pitt.edu
 description: > # this means to ignore newlines until "baseurl:"
   Data Science in Libaries is made possible by the Institute of Museum and Library Services grant number RE-43-16-0149-16.
 baseurl: "" # the subpath of your site, e.g. /blog/
